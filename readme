@@ -1,0 +1,6 @@
+1. download moodle latest , extract letakkan di direktori moodle
+2. mkdir -p moodledata
+3. chmod a+rwx moodle moodledata
+4. docker-compose up -d
+
+
